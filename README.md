@@ -8,6 +8,9 @@
 * кулинарный сервис ["Простое меню"](https://github.com/Prostoe-menu/prostoemenu_dev), над которым я работаю в качестве бэк-разработчика с командой выпускников Яндекс-Практикума. Бэкенд написан на Django Rest Framework. Текущая версия: [test.prostoemenu.ru](https://test.prostoemenu.ru);
 * сервис мониторинга цен на авиабилеты [aviaspy.ru](http://aviaspy.ru): автоматически проверяет цены и высылает их в телеграмм пользователя. Бэкенд написан на Django, состоит из репозиториев [веб-приложения](https://github.com/asbabushkin/Flight_catcher) и [парсера](https://github.com/asbabushkin/FC_parser2024).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asbabushkin&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **asbabushkin/asbabushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
