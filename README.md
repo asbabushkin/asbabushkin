@@ -4,8 +4,9 @@
 * решил вернуться и прошел 12-месячный курс ["Веб-разработка на Python"](https://online.top-academy.ru/python_course) в компьютерной академии "ТОР";
 * и несколько курсов по бэку на [Степике](https://stepik.org/users/76920875/certificates);
 
-### Мой лучший код в репозиториях:
+### Мой лучший код в репозитории:
 * кулинарный сервис ["Простое меню"](https://github.com/Prostoe-menu/prostoemenu_dev), над которым я работаю в качестве бэк-разработчика с командой выпускников Яндекс-Практикума. Бэкенд написан на Django Rest Framework. Текущая версия: [test.prostoemenu.ru](https://test.prostoemenu.ru);
+### Так же интересный проект:
 * сервис мониторинга цен на авиабилеты [aviaspy.ru](http://aviaspy.ru): автоматически проверяет цены и высылает их в телеграмм пользователя. Бэкенд написан на Django, состоит из репозиториев [веб-приложения](https://github.com/asbabushkin/Flight_catcher) и [парсера](https://github.com/asbabushkin/FC_parser2024).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asbabushkin&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
