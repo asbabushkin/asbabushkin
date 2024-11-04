@@ -7,7 +7,7 @@
 ### Мой лучший код в репозитории:
 * кулинарный сервис ["Простое меню"](https://github.com/Prostoe-menu/prostoemenu_dev), над которым я работаю в качестве бэк-разработчика с командой выпускников Яндекс-Практикума. Текущая версия: [test.prostoemenu.ru](https://test.prostoemenu.ru). Бэкенд написан на Django Rest Framework, бд - Postgres, аутентификация пользователей - Djoser.
 ### Так же интересный проект:
-* сервис мониторинга цен на авиабилеты [aviaspy.ru](http://aviaspy.ru): автоматически проверяет цены и высылает их в телеграмм пользователя. Cостоит из репозиториев [веб-приложения](https://github.com/asbabushkin/Flight_catcher) и [парсера](https://github.com/asbabushkin/FC_parser2024). Бэкенд написан на Django, бд - Postgres, телеграм-бот - Telethon. 
+* сервис мониторинга цен на авиабилеты [aviaspy.ru](http://aviaspy.ru): автоматически проверяет цены и высылает их в телеграмм пользователя. Cостоит из репозиториев [веб-интерфейса](https://github.com/asbabushkin/Flight_catcher) и [парсера](https://github.com/asbabushkin/FC_parser2024). Бэкенд написан на Django, бд - Postgres, телеграм-бот - Telethon. 
 ### Выпускной проект 12-месячного курса "Web-разработка на Python"
 * интернет-магазин аксессуаров для сотовых телефонов [case_store](https://github.com/asbabushkin/case_store). Написан на Django. За качество кода поручиться не могу, писал его 2 года назад. Но проект довольно основательный.
 
